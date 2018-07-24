@@ -86,6 +86,12 @@ The inductive part consists of:
 Inside this framework, I use swift to model those definitions and isomorphic relations among them.
 
 
+## To-do
+
+1. Pushdown automata with context free language.
+
+2. Turing machine with enumerable language and intractable language.
+
 ## Notice
 
 The above definition is from [Introduction to Automata Theory, Languages, and Computation (3rd Edition)](https://www.amazon.com/Introduction-Automata-Theory-Languages-Computation/dp/B009NGAL1A/ref=sr_1_6?ie=UTF8&qid=1532403827&sr=8-6&keywords=introduction+to+automata+theory%2C+languages%2C+and+computation)
